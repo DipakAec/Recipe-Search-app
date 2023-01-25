@@ -1,7 +1,7 @@
 {
   "name": "food-recipe-app",
   "version": "0.1.0",
-  "homepage":"https://dipakaec.github.io/Recipe-Search-app/",
+  "homepage": "https://dipakaec.github.io/Recipe-Search-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" : "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
